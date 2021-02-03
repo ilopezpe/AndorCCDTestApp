@@ -10,3 +10,5 @@ There are several libraries included to extend this software with other hardware
 This software requires the Andor SDK to function properly (Not included here).
 
 This software was written with C# using MS Visual Studio. It is derived from https://github.com/asarnow
+
+[![HitCount](http://hits.dwyl.com/ilopezpe/{project}.svg)](http://hits.dwyl.com/ilopezpe/{project})
